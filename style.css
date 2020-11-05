@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: arial;
-    background-image: url(adidas1.jpeg);
+    background-image: url(images/adidas1.jpeg);
     background-size: auto;
     background-repeat: no-repeat;
    background-size: cover;
@@ -21,7 +21,7 @@ body {
     color: #5E6989;
     font-size: 22px;
     padding: 0 5%;
-    background-image: url(adidas.jpg);
+    background-image: url(images/adidas1.jpeg);
 }
 
 .product {
